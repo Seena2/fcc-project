@@ -1,7 +1,28 @@
+/* tribute page*/
 #main{
     background-color: rgb(228, 225, 225);
    }
 
-   h1{
-       justify-self: center;
-   }
+ #title{
+    font-size: 42px;
+    margin: 20px 500px;
+ }
+ p{
+    font-size: 20px;
+    margin: 20px 250px;
+ }
+
+ #img-div{
+     background-color: white;
+    margin:10px;
+    padding: 10px 200px;
+}
+
+#tribute-info{
+    padding: 0 500px;
+}
+ul{
+    padding: 0 400px;
+    font-size: 24px;
+    line-height:1.5 em;
+}
