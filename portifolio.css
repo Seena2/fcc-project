@@ -1,0 +1,10 @@
+#welcome-section{
+    background-color:#252323;
+    color: #fff;
+    text-align: center;
+    height: 100vh;
+}
+h1{
+    padding-top: 20%;
+    font-size: 6rem;
+}
